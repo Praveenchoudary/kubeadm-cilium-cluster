@@ -249,4 +249,6 @@ This deploys test workloads across nodes to validate pod-to-pod networking, serv
 | Cilium     | Pod networking, network policy, eBPF dataplane |
 | kubectl    | Cluster management CLI                 |
 
-With this cluster in place, it can later be connected to the Ceph cluster (from Day 1) to provide persistent storage via **Ceph RBD** or **CephFS** for Kubernetes workloads.
+With this cluster in place, it can later be connected to the Ceph cluster  to provide persistent storage via **Ceph RBD** or **CephFS** for Kubernetes workloads. 
+
+
